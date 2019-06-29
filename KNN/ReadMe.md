@@ -1,0 +1,1 @@
+In this project after a visualisation of the data, we have explored about the effect of selecting various neighbors for the classifiers and tried to get an optimum number of neighbors as the parameter of the KNN classifier.
