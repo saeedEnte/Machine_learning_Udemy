@@ -1,2 +1,2 @@
 In this project, we tried to make use of the linear regression model to classify the data driven from the advertisement of a business. 
-After visualising the data, and selecting the columns to be as part of the feature space of the classification problem, we built a classifier and tried to evaluate its performance using confusion matrix.
+After visualising the data, and selecting the columns to be as part of the feature space of the classification problem, we built a classifier and tried to predict by given a test feature whether the user will click on the corresponding add or not. We finally evaluate the classifier's performance using confusion matrix.
