@@ -1,0 +1,2 @@
+In this project we have tried to fit a linear regression model to a dataset. After visualising the features of the dataset and spliting it into trian and test, we derived a linear model and fit it to the train model. 
+We then tried to evaluate model using the metrics that are common for the regression task. We also visualized the histogram of the residual between the prediction and the true labels for the test data.
