@@ -1,0 +1,2 @@
+In this project, we have tried to predict which person will pay back the loans based on the given features. After doing an exploration through the data and some visualization, we have exploited decision trees and random forest and made a comparison between theses two classifiers.
+On the average the performance of the random forest was better but if we consider a specific class, bsaed on the `classification_report` the recall result for the decision tree was better.
